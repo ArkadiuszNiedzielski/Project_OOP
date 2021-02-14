@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections;
 
-
+// coś tam coś tam
 namespace Projekt_OOP
 {
 
